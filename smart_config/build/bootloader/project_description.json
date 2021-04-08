@@ -1,0 +1,20 @@
+{
+    "project_name":       "bootloader",
+    "project_path":       "/home/tim/esp/esp-idf/components/bootloader/subproject",
+    "build_dir":          "/home/tim/esp/proj/smart_config/build/bootloader",
+    "config_file":        "/home/tim/esp/proj/smart_config/sdkconfig",
+    "config_defaults":    "",
+    "app_elf":            "bootloader.elf",
+    "app_bin":            "bootloader.bin",
+    "git_revision":       "v4.4-dev-4-g73db14240-dirty",
+    "target":             "esp32",
+    "phy_data_partition": "",
+    "monitor_baud" :      "115200",
+    "monitor_toolprefix": "xtensa-esp32-elf-",
+    "config_environment" : {
+        "COMPONENT_KCONFIGS" : "/home/tim/esp/esp-idf/components/efuse/Kconfig;/home/tim/esp/esp-idf/components/esp32/Kconfig;/home/tim/esp/esp-idf/components/esp_common/Kconfig;/home/tim/esp/esp-idf/components/esp_system/Kconfig;/home/tim/esp/esp-idf/components/log/Kconfig;/home/tim/esp/esp-idf/components/spi_flash/Kconfig",
+        "COMPONENT_KCONFIGS_PROJBUILD" : "/home/tim/esp/esp-idf/components/bootloader/Kconfig.projbuild;/home/tim/esp/esp-idf/components/esptool_py/Kconfig.projbuild;/home/tim/esp/esp-idf/components/partition_table/Kconfig.projbuild"
+    },
+    "build_components" : [ "bootloader", "bootloader_support", "efuse", "esp32", "esp_common", "esp_hw_support", "esp_rom", "esp_system", "esptool_py", "hal", "log", "main", "micro-ecc", "partition_table", "soc", "spi_flash", "xtensa", "" ],
+    "build_component_paths" : [ "/home/tim/esp/esp-idf/components/bootloader", "/home/tim/esp/esp-idf/components/bootloader_support", "/home/tim/esp/esp-idf/components/efuse", "/home/tim/esp/esp-idf/components/esp32", "/home/tim/esp/esp-idf/components/esp_common", "/home/tim/esp/esp-idf/components/esp_hw_support", "/home/tim/esp/esp-idf/components/esp_rom", "/home/tim/esp/esp-idf/components/esp_system", "/home/tim/esp/esp-idf/components/esptool_py", "/home/tim/esp/esp-idf/components/hal", "/home/tim/esp/esp-idf/components/log", "/home/tim/esp/esp-idf/components/bootloader/subproject/main", "/home/tim/esp/esp-idf/components/bootloader/subproject/components/micro-ecc", "/home/tim/esp/esp-idf/components/partition_table", "/home/tim/esp/esp-idf/components/soc", "/home/tim/esp/esp-idf/components/spi_flash", "/home/tim/esp/esp-idf/components/xtensa", "" ]
+}

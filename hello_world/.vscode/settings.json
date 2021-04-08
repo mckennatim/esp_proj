@@ -1,0 +1,5 @@
+{
+  "idf.port": "COM4",
+  "cmake.configureOnOpen": false,
+  "idf.flashType": "UART"
+}

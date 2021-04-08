@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/tim/esp/proj/ingest/CMakeFiles/bootloader"
+		},
+		{
+			"file" : "/home/tim/esp/proj/ingest/CMakeFiles/bootloader.rule"
+		},
+		{
+			"file" : "/home/tim/esp/proj/ingest/CMakeFiles/bootloader-complete.rule"
+		},
+		{
+			"file" : "/home/tim/esp/proj/ingest/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule"
+		},
+		{
+			"file" : "/home/tim/esp/proj/ingest/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule"
+		},
+		{
+			"file" : "/home/tim/esp/proj/ingest/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule"
+		},
+		{
+			"file" : "/home/tim/esp/proj/ingest/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule"
+		},
+		{
+			"file" : "/home/tim/esp/proj/ingest/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule"
+		},
+		{
+			"file" : "/home/tim/esp/proj/ingest/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule"
+		},
+		{
+			"file" : "/home/tim/esp/proj/ingest/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"bootloader"
+		],
+		"name" : "bootloader"
+	}
+}

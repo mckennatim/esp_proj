@@ -1,0 +1,5 @@
+{
+  "C_Cpp.intelliSenseEngine": "Tag Parser",
+  "idf.port": "COM4",
+  "idf.flashType": "UART"
+}

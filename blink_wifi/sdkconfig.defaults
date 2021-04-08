@@ -1,0 +1,4 @@
+# Example Configuration
+#
+CONFIG_BLINK_GPIO=2
+# end of Example Configuration

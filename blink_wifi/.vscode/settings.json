@@ -1,0 +1,9 @@
+{
+  "idf.flashType": "UART",
+  "idf.port": "COM4",
+  "files.associations": {
+    "esp_netif.h": "c",
+    "esp_wifi.h": "c",
+    "esp_log.h": "c"
+  }
+}
